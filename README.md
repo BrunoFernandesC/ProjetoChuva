@@ -6,11 +6,8 @@ O site está totalmente responsivo, 100% adaptado para acesso em dispositivos m�
 
 Minha primeira criação (e primeiro commit também) onde desenvolvi meus conhecimentos das tecnologias HTML, CSS (especificamente Flexbox) e JavaScript.
 
-## Resultado
-
-https://htmlpreview.github.io/?https://github.com/BrunoFernandesCruz/ProjetoChuva/blob/master/index.html
-
-### Layout disponibilizado no Figma 
+## Clique [*aqui*](https://htmlpreview.github.io/?https://github.com/BrunoFernandesCruz/ProjetoChuva/blob/master/index.html) para acessar o site
+### Layout disponibilizado no Figma:
 
 <img src="preview.PNG" height="500">
 
